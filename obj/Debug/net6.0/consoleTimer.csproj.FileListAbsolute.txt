@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\bezao\consoleTimer\bin\Debug\net6.0\consoleTimer.exe
+C:\Users\USER\Desktop\bezao\consoleTimer\bin\Debug\net6.0\consoleTimer.deps.json
+C:\Users\USER\Desktop\bezao\consoleTimer\bin\Debug\net6.0\consoleTimer.runtimeconfig.json
+C:\Users\USER\Desktop\bezao\consoleTimer\bin\Debug\net6.0\consoleTimer.dll
+C:\Users\USER\Desktop\bezao\consoleTimer\bin\Debug\net6.0\consoleTimer.pdb
+C:\Users\USER\Desktop\bezao\consoleTimer\obj\Debug\net6.0\consoleTimer.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\bezao\consoleTimer\obj\Debug\net6.0\consoleTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\bezao\consoleTimer\obj\Debug\net6.0\consoleTimer.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\bezao\consoleTimer\obj\Debug\net6.0\consoleTimer.AssemblyInfo.cs
+C:\Users\USER\Desktop\bezao\consoleTimer\obj\Debug\net6.0\consoleTimer.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\bezao\consoleTimer\obj\Debug\net6.0\consoleTimer.dll
+C:\Users\USER\Desktop\bezao\consoleTimer\obj\Debug\net6.0\refint\consoleTimer.dll
+C:\Users\USER\Desktop\bezao\consoleTimer\obj\Debug\net6.0\consoleTimer.pdb
+C:\Users\USER\Desktop\bezao\consoleTimer\obj\Debug\net6.0\consoleTimer.genruntimeconfig.cache
+C:\Users\USER\Desktop\bezao\consoleTimer\obj\Debug\net6.0\ref\consoleTimer.dll
